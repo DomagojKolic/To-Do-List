@@ -31,6 +31,9 @@ All ToDo lists previously created are automatically reopened when the app is sta
 #
 #
 
+## Application Demo
+
+## [This link leads to video demonstration of an application](https://youtu.be/aNgRjg950ek) ##
 
 ## Screenshots:
 
@@ -40,7 +43,3 @@ All ToDo lists previously created are automatically reopened when the app is sta
 ![Tests](https://i.imgur.com/8qvLv2L.png)
 #
 #
-
-## Application Demo
-
-[This link leads to video demonstration of an application](https://youtu.be/aNgRjg950ek) 
